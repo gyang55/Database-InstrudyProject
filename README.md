@@ -2,7 +2,7 @@
 
 Team 9: Kyung Min Song, Jerry Hu, Guang Yang, Kwanyong Jo
 
-Project: Database for Regional District Kitimat-Stikine.
+Project: Database for ***.
 
 Edition Date: 2022-05-27
 
@@ -10,7 +10,7 @@ Edition Date: 2022-05-27
 **Release Notes**
 1. Introduction
 
-This document lists the new features and changes in this release of the RDKS Database Design project. It also documents the known issues, problems and workarounds.
+This document lists the new features and changes in this release of the ** Database Design project. It also documents the known issues, problems and workarounds.
 
 2. About this release
 
