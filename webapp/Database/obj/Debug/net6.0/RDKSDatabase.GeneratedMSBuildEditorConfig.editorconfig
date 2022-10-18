@@ -1,0 +1,256 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RDKSDatabase
+build_property.RootNamespace = RDKSDatabase
+build_property.ProjectDir = C:\selfLearning\projects\Database\Database-InstrudyProject\webapp\Database\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\selfLearning\projects\Database\Database-InstrudyProject\webapp\Database
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/ABCRecyclings/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJDUmVjeWNsaW5nc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/ABCRecyclings/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJDUmVjeWNsaW5nc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/ABCRecyclings/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJDUmVjeWNsaW5nc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/ABCRecyclings/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJDUmVjeWNsaW5nc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/ABCRecyclings/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUJDUmVjeWNsaW5nc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Addresses/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Addresses/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Addresses/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Addresses/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Addresses/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkcmVzc2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Customers/InfoPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZm9QYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Customers/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXFNlYXJjaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_HAZELTON/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0hBWkVMVE9OXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_HAZELTON/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0hBWkVMVE9OXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_HAZELTON/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0hBWkVMVE9OXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_HAZELTON/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0hBWkVMVE9OXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_HAZELTON/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0hBWkVMVE9OXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_KITWANGA/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0tJVFdBTkdBXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_KITWANGA/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0tJVFdBTkdBXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_KITWANGA/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0tJVFdBTkdBXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_KITWANGA/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0tJVFdBTkdBXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_KITWANGA/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX0tJVFdBTkdBXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_STEWART/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX1NURVdBUlRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_STEWART/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX1NURVdBUlRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_STEWART/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX1NURVdBUlRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_STEWART/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX1NURVdBUlRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/HWY37N_STEWART/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSFdZMzdOX1NURVdBUlRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Permits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWl0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Permits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWl0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Permits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWl0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Permits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWl0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Permits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVybWl0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Transactions/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Transactions/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Transactions/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Transactions/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Transactions/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhbnNhY3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Validations/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhdGlvbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Validations/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhdGlvbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Validations/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhdGlvbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Validations/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhdGlvbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Validations/GenerateCode.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhdGlvbnNcR2VuZXJhdGVDb2RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Validations/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmFsaWRhdGlvbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Vehicles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Vehicles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Vehicles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Vehicles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Vehicles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVoaWNsZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/selfLearning/projects/Database/Database-InstrudyProject/webapp/Database/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k273r1fjce
